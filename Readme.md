@@ -10,7 +10,7 @@ It works like this:
 	- message
 * The functionapp then:
 	- Parses the message body
-	- Receives an azure table a IQueryable containing the recipients for the websites
-	- Looks up the correct recient based on the appid
+	- Receives an azure table as IQueryable containing the recipients for the websites
+	- Looks up the correct recipient based on the appid
 	- Retrieves settings and secrets from the environment variables
-	- Build an email message and sends it
+	- Builds an email message and sends it
