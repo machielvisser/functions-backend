@@ -1,0 +1,1 @@
+{"http":{"routePrefix":"api","maxOutstandingRequests":4,"maxConcurrentRequests":4,"dynamicThrottlesEnabled":true}}
