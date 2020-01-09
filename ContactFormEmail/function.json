@@ -7,7 +7,7 @@
       "methods": [
         "post"
       ],
-      "authLevel": "anonymous"
+      "authLevel": "function"
     },
     {
       "type": "http",
